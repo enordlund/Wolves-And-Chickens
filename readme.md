@@ -2,7 +2,7 @@
 
 This project attempts to find a way from an initial state to a goal state for the wolves and chickens problem. The steps taken are printed, and saved to an output file as well.
 
-### State file structure:
+### State file structure
 
 ```
 [number of chickens on left bank],[number of wolves on left bank],[1 for boat on left bank, otherwise 0]
@@ -16,7 +16,7 @@ This project attempts to find a way from an initial state to a goal state for th
 3,2,1
 ```
 
-### Arguments structure:
+### Arguments structure
 
 ```main.py [initial state file] [goal state file] [mode] [output file]```
 
